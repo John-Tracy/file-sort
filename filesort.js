@@ -92,22 +92,3 @@ console.log('png: ' + sortObj.typePng);
 console.log('mp4: ' + sortObj.typeMp4);
 console.log('avi: ' + sortObj.typeAvi);
 console.log('jpg: ' + sortObj.typeJpg);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
